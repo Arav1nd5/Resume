@@ -43,16 +43,6 @@ Computer Science Engineering student skilled in Java, Python, Spring Boot, FastA
 - Built a Flask backend with real-time WebSocket updates, integrating the GROQ API across 3 model roles (debaters, judge, vision)
 - Enabled context-aware debates via parsing of 4 file types (PDF, DOCX, code, image), plus PDF export of full transcripts
 
-### Online Book Store (REST API)
-- Developed a Spring Boot REST API with complete CRUD operations
-- Applied layered architecture, request validation, and clean endpoint design
-- Built a scalable backend suitable for frontend integration
-
-### Line Follower Bot
-- Built a speed-optimized autonomous line follower bot using Arduino Nano and IR sensors
-- Implemented real-time sensor processing and motor control logic
-- Hands-on experience in embedded systems and robotics
-
 ---
 
 ## INTERNSHIP
